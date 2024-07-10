@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+    <booking>
+        <name>Nguyen Van A</name>
+        <checkin>2024-06-10</checkin>
+        <checkout>2024-06-12</checkout>
+        <room_type>Phòng đơn</room_type>
+        <quantity>1</quantity>
+        <unit_price>500000</unit_price>
+        <total_price>1000000</total_price>
+        <deposit>200000</deposit>
+        <room_number>101</room_number>
+    </booking>
+    <!-- Add more bookings as needed -->
+</bookings>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+    <room>
+        <room_number>101</room_number>
+        <room_type>Phòng đơn</room_type>
+        <price>500000</price>
+        <status>Available</status>
+    </room>
+    <!-- Add more rooms as needed -->
+</rooms>
